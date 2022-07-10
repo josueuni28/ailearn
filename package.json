@@ -1,0 +1,23 @@
+{
+  "name": "ailearn",
+  "version": "1.0.0",
+  "description": "Artificial intelligence designed to understand natural language",
+  "main": "index.js",
+  "scripts": {
+    "test": "hi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josueuni28/ailearn.git"
+  },
+  "keywords": [
+    "ai",
+    "nlp"
+  ],
+  "author": "josueuni28",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/josueuni28/ailearn/issues"
+  },
+  "homepage": "https://github.com/josueuni28/ailearn#readme"
+}
